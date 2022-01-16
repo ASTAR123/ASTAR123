@@ -1,16 +1,28 @@
-### Hi there 👋
+# Great to See You Here🚀
 
-<!--
-**astar123/astar123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Currently I am a 2nd Year student.**
 
-Here are some ideas to get you started:
+**I love to Code..😍**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I am a Front-end Developer having command in following Languagss:
+-  **CSS**
+-  **HTML**
+-  **Javascript**
+-  **C++**
+
+              
+**Currently I am Focusing On making more Projects for hands-on experience.**
+
+>I have made following Projects whixh are listed below: 
+```ts
+   1. CRUD APP
+   2. Hamberger Menu
+   3. Responsive Site 
+   4. Navbars
+   5. Sign-Up Forms
+```
+
+
+
+
+
