@@ -13,7 +13,7 @@
               
 **Currently I am Focusing On making more Projects for hands-on experience.**
 
->I have made following Projects whixh are listed below: 
+>I have made following Projects which are listed below: 
 ```ts
    1. CRUD APP
    2. Hamberger Menu
